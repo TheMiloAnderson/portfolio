@@ -164,7 +164,7 @@ section, article {
       color: rgba(255, 255, 255, 0.75);
     }
   
-    #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
+    #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
       color: inherit;
     }
   
@@ -319,4 +319,8 @@ font-size: 0.8em;
   background: #222629 url("../images/overlay.png");
   box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
   color: #fff;
+  }
+
+  header > h2, header > p {
+    color: #000;
   }
