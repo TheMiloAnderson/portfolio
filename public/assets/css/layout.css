@@ -13,7 +13,7 @@
   width: 1400px;
 }
 
-  @media screen and (min-width: 961px) and (max-width: 1880px) {
+  @media screen and (min-width: 737px) and (max-width: 1880px) {
 
     .container {
       width: 1200px;
@@ -21,7 +21,7 @@
 
   }
 
-  @media screen and (min-width: 961px) and (max-width: 1620px) {
+  @media screen and (min-width: 737px) and (max-width: 1620px) {
 
     .container {
       width: 960px;
@@ -29,7 +29,7 @@
 
   }
 
-  @media screen and (min-width: 961px) and (max-width: 1320px) {
+  @media screen and (min-width: 737px) and (max-width: 1320px) {
 
     .container {
       width: 100%;
@@ -37,7 +37,7 @@
 
   }
 
-  @media screen and (max-width: 960px) {
+  @media screen and (max-width: 736px) {
 
     .container {
       width: 100%;
@@ -111,7 +111,7 @@
 
 /* Wide */
 
-@media screen and (min-width: 961px) and (max-width: 1880px) {
+@media screen and (min-width: 737px) and (max-width: 1880px) {
 
   /* Header */
 
@@ -136,7 +136,7 @@
 
 /* Normal */
 
-@media screen and (min-width: 961px) and (max-width: 1620px) {
+@media screen and (min-width: 737px) and (max-width: 1620px) {
 
   /* Main */
 
@@ -154,7 +154,7 @@
 
 /* Narrow */
 
-@media screen and (min-width: 961px) and (max-width: 1320px) {
+@media screen and (min-width: 737px) and (max-width: 1320px) {
 
     .container {
       padding: 0 2em 0 2em;
@@ -182,7 +182,7 @@
   display: none;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 736px) {
 
   /* Basic */
 
@@ -425,7 +425,7 @@
 }
 
 
-@media screen and (min-width: 961px) and (max-width: 1320px) {
+@media screen and (min-width: 737px) and (max-width: 1320px) {
   #header {
     width: 20%;
   }

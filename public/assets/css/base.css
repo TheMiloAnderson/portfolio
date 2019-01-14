@@ -1,4 +1,4 @@
-@import url("font-awesome.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 html, body, div, span, applet, object,
@@ -203,7 +203,7 @@ ol li {
   padding-left: 0.25em;
 }
 
-@media screen and (min-width: 961px) and (max-width: 1880px) {
+@media screen and (min-width: 737px) and (max-width: 1880px) {
   body, input, textarea, select {
     font-size: 17pt;
   }
@@ -211,7 +211,7 @@ ol li {
 
 /* Narrow */
 
-@media screen and (min-width: 961px) and (max-width: 1320px) {
+@media screen and (min-width: 737px) and (max-width: 1320px) {
   body, input, textarea, select {
     font-size: 16pt;
   }
